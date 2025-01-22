@@ -1,0 +1,1 @@
+Olá, Desenvolvi um Kanban Web com o meu professor Leonardo, para estar melhorando o conhecimeento em PHP além disso estar utilizando uma Extensão do PHP chamada PDO, PDO(PHP Data Objects) é um módulo de PHP montado sob o paradigma Orientado a Objetos, cujo objetivo é prover uma padronização da forma com que PHP se comunica com um banco de dados relacional.
